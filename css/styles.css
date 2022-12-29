@@ -648,6 +648,7 @@ border-radius: 4px;
 background: #2F303A;
 padding: 16px 15px;
 outline: none;
+color: var(--color-button);
 
 }
 .button-email{
@@ -851,6 +852,9 @@ position: relative;
 margin-bottom: 10px;
 }
 .form-field-label{
+    font-size: 12px;
+line-height: 1,167;
+letter-spacing: 0.01em;
 color: #757575;
 
 }
